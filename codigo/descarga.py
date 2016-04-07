@@ -1,7 +1,7 @@
 from urllib2 import urlopen
 
 direccionweb = "http://lorempixel.com"
-dimenciontipo = ["abstract", "animals", "business", "cats", "city", "food", "nightlife", "fashion", "people", "nature", "sports", "technics", "transport"]
+dimensiontipo = ["abstract", "animals", "business", "cats", "city", "food", "nightlife", "fashion", "people", "nature", "sports", "technics", "transport"]
 
 anchopixeles = raw_input("Cual es el ancho en pixeles (px) __")
 altopixeles = raw_input("Cual es el alto en pixeles (px) __")
