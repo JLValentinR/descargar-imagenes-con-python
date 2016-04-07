@@ -1,1 +1,1 @@
-# descargar-imagenes-con-python
+# Ejemplo para descargar imágenes de lorempixel con python
